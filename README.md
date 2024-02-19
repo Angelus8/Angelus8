@@ -4,7 +4,7 @@ I'm Angelus8, passionate about software development, particularly in the fields 
 My goal is to become a great data analyst, and I'm excited to continue learning and growing in this exciting field. 
 As a member of the Microsoft Learn Student Ambassador community, I actively engage in knowledge sharing and interacting with other technology enthusiasts.
 
-**Skills**:
+**Skills**:<br>
 Data Science Data Analysis Java FX Linux System Administration
 
 **Tools**:<br>
@@ -16,11 +16,11 @@ Data Science Data Analysis Java FX Linux System Administration
 <img src="https://github.com/github/explore/raw/main/topics/red-hat/red-hat.png" width="20">
 
 Currently:
-🔭 Currently, I'm working on this page.
-🌱 Right now, I'm learning JavaFX.
-👯 I'm open to collaboration on interesting projects.
-📫 You can reach me via [preferred contact method].
-😄 My pronouns: He/Him.
+🔭 Currently, I'm working on this page.<br>
+🌱 Right now, I'm learning JavaFX.<br>
+👯 I'm open to collaboration on interesting projects.<br>
+📫 You can reach me via [preferred contact method].<br>
+😄 My pronouns: He/Him.<br>
 [<img src="https://github.com/github/explore/raw/main/topics/github/github.png" width="20">](https://github.com/Angelus8)
 [<img src="https://lien_vers_ton_image_LinkedIn" width="20">](https://www.linkedin.com/in/acobe-ange-ulrich-boni/)
 
