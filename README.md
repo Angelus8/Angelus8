@@ -8,12 +8,12 @@ As a member of the Microsoft Learn Student Ambassador community, I actively enga
 Data Science Data Analysis Java FX Linux System Administration
 
 **Tools**:<br>
-<img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="20">
-<img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" width="20">
-<img src="https://github.com/github/explore/raw/main/topics/github/github.png" width="20">
-<img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="20">
-<img src="https://github.com/github/explore/raw/main/topics/java/java.png" width="20">
-<img src="https://github.com/github/explore/raw/main/topics/red-hat/red-hat.png" width="20">
+<img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="25">
+<img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" width="25">
+<img src="https://github.com/github/explore/raw/main/topics/github/github.png" width="25">
+<img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="25">
+<img src="https://github.com/github/explore/raw/main/topics/java/java.png" width="25">
+<img src="https://www.svgrepo.com/show/354273/redhat-icon.svg" width="25">
 
 Currently:
 🔭 Currently, I'm working on this page.<br>
