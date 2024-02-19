@@ -24,5 +24,5 @@ Currently:
 [<img src="https://github.com/github/explore/raw/main/topics/github/github.png" width="25">](https://github.com/Angelus8)
 [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="25">](https://www.linkedin.com/in/acobe-ange-ulrich-boni/)
 
-Feel free to reach out if you want to discuss these topics or if you have any exciting collaboration opportunities!
+Feel free to reach out if you want to discuss these topics or if you have any exciting collaboration opportunities!<br>
 See you soon! 🚀
