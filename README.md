@@ -6,6 +6,7 @@ As a member of the Microsoft Learn Student Ambassador community, I actively enga
 
 **Skills**:
 Data Science Data Analysis Java FX Linux System Administration
+
 **Tools**:
 <img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="20">
 <img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" width="20">
