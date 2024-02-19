@@ -20,7 +20,7 @@ Currently:
 📫 You can reach me via [preferred contact method].
 😄 My pronouns: He/Him.
 [![GitHub Icon](https://github.com/github/explore/raw/main/topics/github/github.png)](https://github.com/Angelus8)
-[<img src="https://example.com/linkedin_icon.png" width="30">](https://www.linkedin.com/in/acobe-ange-ulrich-boni/)
+[![LinkedIn Icon](lien_vers_ton_image_LinkedIn)](https://www.linkedin.com/in/acobe-ange-ulrich-boni/)
 
 Feel free to reach out if you want to discuss these topics or if you have any exciting collaboration opportunities!
 See you soon! 🚀
